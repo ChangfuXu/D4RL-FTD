@@ -1,5 +1,5 @@
 # Diffusion Model for Sequential Decision Making: Overview, Solutions, and Directions
-This repository contains a collection of resources and papers on Diffusion Models for Sequential Decision-Making.
+This repository contains a collection of resources and papers on Diffusion Models for Sequential Decision Making.
 
 ## Table of Contents
 - [Diffusion Model for Sequential Decision Making: Overview, Solutions, and Direction](#diffusion-model-for-sequential-decision making-overview-solutions-and-directions)
