@@ -1,4 +1,4 @@
-# Diffusion Model for Sequential Decision Making: Overview, Solutions, and Directions
+# Diffusion Models for Reinforcement Learning: Foundations,Taxonomy, and Development
 This repository contains a collection of resources and papers on Diffusion Models for Sequential Decision Making.
 
 ## Table of Contents
