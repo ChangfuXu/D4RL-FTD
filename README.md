@@ -1,7 +1,7 @@
 # Diffusion Models for Reinforcement Learning: Foundations,Taxonomy, and Development
 This repository contains a collection of resources and papers on **Diffusion Models** for **Reinforcement Learning**.
 
-:rocket: Please see our our survey paper [Diffusion Models for Reinforcement Learning: Foundations,Taxonomy, and Development](https://arxiv.org/abs/2311.xxx)
+:rocket: Please see our our survey paper [Diffusion Models for Reinforcement Learning: Foundations,Taxonomy, and Development](https://arxiv.org/abs/2510.12253)
 
 ![image info](./Overview_of_DMs_for_RL.png "Overview of DMs for RL. DMs pretrained on broad data are adapted to accomplish specific tasks by
 making actions, interacting with external entities, and receiving feedback.")
@@ -78,7 +78,7 @@ In collaborative policy learning, each agent’s trajectory is modeled as a cond
 @article{xu2025diffusion,
   title={Diffusion Models for Reinforcement Learning: Foundations,Taxonomy, and Development},
   author={Xu, Changfu and Guo, Jianxiong and Liang, Yuzhu and Huang, Haiyang and Zou, Haodong and Zheng, Xi and Yu, Shui and Chu, Xiaowen and Cao, Jiannong and Tian, Wang},
-  journal={arXiv preprint arXiv:2506.xxxx},
+  journal={arXiv preprint arXiv:https://arxiv.org/abs/2510.12253},
   year={2025}
 }
 ```
