@@ -68,7 +68,7 @@ In collaborative policy learning, each agent’s trajectory is modeled as a cond
 
 - **Enhancing llm qos through cloud-edge collaboration: A diffusion-based multi-agent reinforcement learning approach**, tsc 2025. [[paper](https://ieeexplore.ieee.org/document/10970093)]
 - **Hierarchical Diffusion for Offline Decision Making**, ICML 2023. [[paper](https://openreview.net/forum?id=55kLa7tH9o)] [[code](https://github.com/ewanlee/HDMI)]
-- **Diffusion-reinforcement learning hierarchical motion planning in adversarial multi-agent games**, xxx. [[paper](https://arxiv.org/abs/2403.10794)] [[code](https://github.com/ChampagneAndfragrance/Diffusion_RL)]
+- **Diffusion-reinforcement learning hierarchical motion planning in adversarial multi-agent games**, arXiv 2025. [[paper](https://arxiv.org/abs/2403.10794)] [[code](https://github.com/ChampagneAndfragrance/Diffusion_RL)]
 - **Beyond Conservatism: Diffusion Policies in Offline Multi-agent Reinforcement Learning**, arXiv 2023. [[paper](https://arxiv.org/abs/2307.01472)]
 - **Diffusion-based multi-agent reinforcement learning with communication**, APWCS) 2024 [[paper](https://ieeexplore.ieee.org/document/10679289)]
 - **Beyond local views: Global state inference with diffusion models for cooperative multi-agent reinforcement learning**, arXiv 2024. [[paper](https://arxiv.org/abs/2408.09501)]
