@@ -1,7 +1,7 @@
 # Diffusion Models for Reinforcement Learning: Foundations,Taxonomy, and Development
 This repository contains a collection of resources and papers on **Diffusion Models** for **Reinforcement Learning**.
 
-:rocket: Our survey paper **Diffusion Models for Reinforcement Learning: Foundations,Taxonomy, and Development**, submitted to IEEE TNNLS.
+:rocket: Our survey paper **Diffusion Models for Reinforcement Learning: Foundations,Taxonomy, and Development**.
 
 ![image info](./Overview_of_DMs_for_RL.png "Overview of DMs for RL. DMs pretrained on broad data are adapted to accomplish specific tasks by
 making actions, interacting with external entities, and receiving feedback.")
